@@ -55,13 +55,12 @@
 .Company{
     text-align: center;
     background-color: rgba(0, 255, 0, 0.363);
-    color: rgba(0, 255, 221, 0.795);
+    color: rgba(0, 255, 221, 0.274);
     font-size: 30px;
 }
 .Use{
     text-align: center;
-    background-color: rgba(0, 255, 0, 0.363);
-    /*color: rgb(255, 255, 255);*/
+    background-color:  rgba(0, 255, 0, 0.363);
     color: linear-gradient(red, yellow);
     font-size: 20px;
 }
